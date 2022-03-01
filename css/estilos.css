@@ -16,6 +16,7 @@
 }
 .parrafo
 {
+    background-image: linear-gradient(to left, rgb(168, 21, 21) , rgb(169, 199, 37));
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: larger;
